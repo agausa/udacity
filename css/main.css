@@ -1,0 +1,28 @@
+/*
+* {
+    border: 1px solid red !important;
+}
+*/
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.centered {
+  text-align: center;
+}
+
+hr {
+  color: #7d97ad;
+  border:none;
+  height: 3px;
+  background-color: #7d97ad
+}
+
+body {
+  font-family: 'Assistant', serif;
+  font-weight: 100;
+}
